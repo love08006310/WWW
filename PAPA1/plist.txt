@@ -1,0 +1,5 @@
+//1 2007-11-13data.thor
+//2 2007-11-17palettes.thor
+//gpf 不能用
+
+1 MAMA67.thor
